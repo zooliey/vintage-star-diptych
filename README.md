@@ -4,6 +4,13 @@
 
 上格使用明亮、低饱和的做旧纸张；下格保留用户原图，只叠加轻微的低画质、柔焦、胶片颗粒与记忆感。上下两格共用同一份文字与星星母版，因此所有文字星链和装饰星都能精准对应，仅交换填充材质。
 
+## 效果参考
+
+| Dream | Quiet |
+| :---: | :---: |
+| ![Dream](./assets/examples/example-dream.png) | ![Quiet](./assets/examples/example-quiet.png) |
+
+
 ## 主要特性
 
 - 输出一张 3:4 PNG，推荐尺寸为 1536 × 2048 px。
