@@ -6,9 +6,10 @@
 
 ## 效果参考
 
-| Dream | Quiet |
+| Rawr | Quiet |
 | :---: | :---: |
-| ![Dream](./assets/examples/example-dream.png) | ![Quiet](./assets/examples/example-quiet.png) |
+| <img width="1086" height="1448" alt="exec-5c41375b-0fac-4ad3-965c-389c53d852d9" src="https://github.com/user-attachments/assets/ae0134a0-7d16-4c6b-9d72-cb42aa5eed96" />
+|<img width="1086" height="1448" alt="exec-efaf527d-86ee-47fd-a0e3-2aa5c944a1f0" src="https://github.com/user-attachments/assets/b90ef1dd-6a68-45fe-9cbf-d369b8ff59c9" />|
 
 
 ## 主要特性
