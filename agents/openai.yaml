@@ -1,0 +1,8 @@
+interface:
+  display_name: "复古星字双宫格"
+  short_description: "把用户照片制作成3:4浅色旧纸与上下精准对位星字双宫格海报"
+  brand_color: "#B8B3A6"
+  default_prompt: "Use $vintage-star-diptych to turn my photo into a light-paper 3:4 diptych with centered, coordinate-matched star lettering."
+
+policy:
+  allow_implicit_invocation: true
